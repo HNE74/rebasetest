@@ -19,4 +19,8 @@ public class PlaygroundMain {
 	public int getA() {
 		return a;
 	}
+	
+	public void setTest(String test) {
+		this.test = test;
+	}
 }
