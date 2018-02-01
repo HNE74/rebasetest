@@ -28,6 +28,9 @@ public class PlaygroundMain {
 		System.out.println("Hello!");
 	}
 	
+	public void doEnter() {
+		// Enter Comment
+	}
 	
 	public void setTest(String test) {
 		this.test = test;
