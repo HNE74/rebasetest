@@ -11,5 +11,8 @@ public class PlaygroundMain {
 	public static void main(String args[]) {
 		System.out.println("Ausgabe!");		
 	}
-
+	
+	public void randomize() {
+		
+	}
 }
