@@ -24,6 +24,10 @@ public class PlaygroundMain {
 		return a;
 	}
 	
+	public void hello() {
+		System.out.println("Hello!");
+	}
+	
 	
 	public void setTest(String test) {
 		this.test = test;
