@@ -9,7 +9,7 @@ public class PlaygroundMain {
 	public String test;
 	
 	public static void main(String args[]) {
-		
+		System.out.println("Ausgabe!");		
 	}
 
 }
