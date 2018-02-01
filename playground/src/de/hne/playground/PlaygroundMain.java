@@ -5,5 +5,9 @@ public class PlaygroundMain {
 	public static void main(String args[]) {
 		
 	}
+	
+	public void doTest() {
+		
+	}
 
 }
