@@ -6,6 +6,8 @@ public class PlaygroundMain {
 	
 	public static final String CONST_ALPHA = "alpha";
 	
+	public String test;
+	
 	public static void main(String args[]) {
 		
 	}
