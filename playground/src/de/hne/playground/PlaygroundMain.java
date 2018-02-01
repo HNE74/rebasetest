@@ -1,5 +1,9 @@
 package de.hne.playground;
 
+/**
+ * PlaygroundMain Kommentar.
+ * @author 057530
+ */
 public class PlaygroundMain {
 	
 	public int a;
@@ -19,4 +23,5 @@ public class PlaygroundMain {
 	public int getA() {
 		return a;
 	}
+	
 }
