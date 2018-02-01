@@ -15,4 +15,8 @@ public class PlaygroundMain {
 	public void randomize() {
 		
 	}
+	
+	public int getA() {
+		return a;
+	}
 }
