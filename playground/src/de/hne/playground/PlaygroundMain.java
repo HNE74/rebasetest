@@ -24,4 +24,12 @@ public class PlaygroundMain {
 		return a;
 	}
 	
+	
+	public void setTest(String test) {
+		this.test = test;
+		
+		for(int i=0; i<10; i++) {
+			System.out.println(i);
+		}
+	}
 }
