@@ -4,11 +4,9 @@ public class PlaygroundMain {
 	
 	public int a;
 	
-	public static void main(String args[]) {
-		
-	}
+	public static final String CONST_ALPHA = "alpha";
 	
-	public void doTest() {
+	public static void main(String args[]) {
 		
 	}
 
